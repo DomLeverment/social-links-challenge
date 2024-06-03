@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-((assets/images/Screenshot 2024-06-03 at 16.53.31 copy.png))
+![]((assets/Screenshot 2024-06-03 at 16.53.31 copy.png))
 
 ## My process
 - Started with the html 
