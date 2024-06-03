@@ -13,7 +13,8 @@ Users should be able to:
 
 ### Screenshot
 
-![]((assets/Screenshot 2024-06-03 at 16.53.31 copy.png))
+![image](https://github.com/DomLeverment/social-links-challenge/assets/40765443/2639b1b7-263f-4acf-800c-b9fad9a1fbca)
+
 
 ## My process
 - Started with the html 
